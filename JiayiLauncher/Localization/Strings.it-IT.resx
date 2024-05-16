@@ -378,10 +378,10 @@
         <value>Elenco separato da virgole</value>
     </data>
     <data name="ThemePublishRawTags" xml:space="preserve">
-        <value>Tag grezzi</value>
+        <value>Tag predefiniti</value>
     </data>
     <data name="ThemePublishRawTagsSelect" xml:space="preserve">
-        <value>Scegli tag grezzi</value>
+        <value>Scegli tag predefiniti</value>
     </data>
     <data name="ThemePublishNoName" xml:space="preserve">
         <value>Impossibile creare il tema (nessun nome)</value>
@@ -421,131 +421,131 @@
     
     <!-- version manager strings -->
     <data name="VerManName" xml:space="preserve">
-        <value>Version manager</value>
+        <value>Gestore versioni</value>
     </data>
     <data name="VerManCurrentVersion" xml:space="preserve">
-        <value>Your current version</value>
+        <value>La versione attuale</value>
     </data>
     <data name="VerManResizeTip" xml:space="preserve">
-        <value>You can resize Jiayi to see the full list on the right</value>
+        <value>È possibile ridimensionare Jiayi per vedere l'elenco completo sulla destra</value>
     </data>
     <data name="VerManManageTip" xml:space="preserve">
-        <value>Manage more versions</value>
+        <value>Mosta più versioni</value>
     </data>
     <data name="VerManPopularVersions" xml:space="preserve">
-        <value>Popular versions</value>
+        <value>Versioni popolari</value>
     </data>
     <data name="VerManLatestVersion" xml:space="preserve">
-        <value>Latest version</value>
+        <value>Ultima versione</value>
     </data>
     <data name="VerManPopularAmongCommunity" xml:space="preserve">
-        <value>Popular among the community</value>
+        <value>Popolare tra la comunità</value>
     </data>
     <data name="VerManBestStableRelease" xml:space="preserve">
-        <value>Best stable release without RenderDragon</value>
+        <value>Miglior versione stabile senza RenderDragon</value>
     </data>
     <data name="VerManShaderManagerText" xml:space="preserve">
-        <value>Easily apply RenderDragon shaders to your game. Works best if you have the game installed through Jiayi.</value>
+        <value>Applicare facilmente gli shader di RenderDragon al gioco. Funziona meglio se il gioco è stato installato tramite Jiayi.</value>
     </data>
     <data name="VerManShaderManagerVerTooLow" xml:space="preserve">
-        <value>Your game version does not have RenderDragon. Use a resource pack for shaders instead.</value>
+        <value>La versione installato del gioco non dispone di RenderDragon. Utilizzare invece un pacchetto di risorse per gli shader.</value>
     </data>
     <data name="VerManShaderManagerMSStore" xml:space="preserve">
-        <value>Your game is installed through the Microsoft Store. Jiayi cannot apply shaders to it.</value>
+        <value>Il gioco è stato installato tramite il Microsoft Store. Jiayi non può applicare gli shader allo gioco.</value>
     </data>
     
     <!-- install location strings -->
     <data name="InstallLocByJiayi" xml:space="preserve">
-        <value>Installed by Jiayi</value>
+        <value>Installato da Jiayi</value>
     </data>
     <data name="InstallLocFromStore" xml:space="preserve">
-        <value>From Microsoft Store</value>
+        <value>Da Microsoft Store</value>
     </data>
     <data name="InstallLocExternalManager" xml:space="preserve">
-        <value>Installed by another version manager</value>
+        <value>Installato da un altro gestore versioni</value>
     </data>
     <data name="InstallLocUnknown" xml:space="preserve">
-        <value>Unknown install location</value>
+        <value>Posizione d'installazione sconosciuta</value>
     </data>
     <data name="InstallLocNotInstalled" xml:space="preserve">
-        <value>You don't have the game installed</value>
+        <value>Non hai installato il gioco</value>
     </data>
     
     <!-- version list strings -->
     <data name="VerListName" xml:space="preserve">
-        <value>Full version list</value>
+        <value>Elenco completo dei versioni</value>
     </data>
     <data name="VerListSearch" xml:space="preserve">
-        <value>Search versions</value>
+        <value>Cerca versioni</value>
     </data>
     <data name="VerListShowDownloaded" xml:space="preserve">
-        <value>Show downloaded</value>
+        <value>Mostra scaricati</value>
     </data>
     <data name="VerListNoVersions" xml:space="preserve">
-        <value>No versions found</value>
+        <value>Nessun versioni trovati</value>
     </data>
     <data name="VerListLoadMore" xml:space="preserve">
-        <value>Load more</value>
+        <value>Carica altri</value>
     </data>
     <data name="VerListRemove" xml:space="preserve">
-        <value>Remove version</value>
+        <value>Togli versione</value>
     </data>
     <data name="VerListRemoveConfirm" xml:space="preserve">
-        <value>Are you sure you want to remove this version?</value>
+        <value>Sei sicuro che vorresti togliere questa versione?</value>
     </data>
     <data name="VerListDevModeQuestion" xml:space="preserve">
-        <value>You need to enable developer mode to switch versions. Do you want to enable it now?</value>
+        <value>Per passare da una versione all'altra è necessario abilitare la modalità sviluppatore. Vorresti abilitarla ora?</value>
     </data>
     <data name="VerListNotFound" xml:space="preserve">
-        <value>This version has not been downloaded yet.</value>
+        <value>Questa versione non è stata ancora scaricata.</value>
     </data>
     <data name="VerListBackupFailed" xml:space="preserve">
         <value>
-            Jiayi couldn't back up your game data before switching versions. This could be because access to the game data folder was denied.
-            
-            More information can be found in your log file.
+            Jiayi non può fare il backup tuoi dati del gioco prima della cambiamento dei versioni. Ciò potrebbe essere dovuto al fatto che l'accesso alla cartella dei dati del gioco è stato negato.
+
+            Ulteriori informazioni possono essere trovate nel file di log.
         </value>
     </data>
     <data name="VerListUnknownError" xml:space="preserve">
-        <value>An unknown error occurred while switching versions. Check your log file for more information.</value>
+        <value>Si è verificato un errore sconosciuto durante il cambiamento di versione. Controllare il file di log per ulteriori informazioni.</value>
     </data>
     <data name="VerListImport" xml:space="preserve">
-        <value>Import version</value>
+        <value>Importare versione</value>
     </data>
     <data name="VerListFileFilter" xml:space="preserve">
-        <value>APPX files</value>
+        <value>Archivi APPX</value>
     </data>
     <data name="VerListInvalidPackage" xml:space="preserve">
-        <value>That's not a valid package.</value>
+        <value>Questo non è un pacchetto valido.</value>
     </data>
     <data name="VerListUpdatingVersions" xml:space="preserve">
-        <value>Version list cleared. It will be updated shortly.</value>
+        <value>Elenco delle versioni svuotato. Verrà aggiornato a breve.</value>
     </data>
     
     <!-- shader manager strings -->
     <data name="ShaderManName" xml:space="preserve">
-        <value>Shader manager</value>
+        <value>Gestore shader</value>
     </data>
     <data name="ShaderManCurrentShader" xml:space="preserve">
-        <value>Your current shader pack</value>
+        <value>Tuo shader pack attuale</value>
     </data>
     <data name="ShaderManNoShader" xml:space="preserve">
-        <value>No shaders applied</value>
+        <value>Nessun shaders applicati</value>
     </data>
     <data name="ShaderManUsingVanilla" xml:space="preserve">
-        <value>Minecraft's vanilla shaders will be used</value>
+        <value>Verranno utilizzati gli shader vanilla di Minecraft</value>
     </data>
     <data name="ShaderManReplacingCount" xml:space="preserve">
-        <value>Replacing {0} material files</value>
+        <value>Sostituzione dei {0} file materiale</value>
     </data>
     <data name="ShaderManAvailableShaders" xml:space="preserve">
-        <value>Available shaders</value>
+        <value>Shader disponibili</value>
     </data>
     <data name="ShaderManSearch" xml:space="preserve">
-        <value>Search shaders</value>
+        <value>Cerca shaders</value>
     </data>
     <data name="ShaderManViewMaterials" xml:space="preserve">
-        <value>View shader materials</value>
+        <value>Visualizza materiali shader</value>
     </data>
     <data name="ShaderManMaterials" xml:space="preserve">
         <value>Shader materials</value>
